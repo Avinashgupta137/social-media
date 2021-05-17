@@ -1,0 +1,3 @@
+import pywhatkit as kit
+avi = input("Enter search item")
+kit.search(avi)
